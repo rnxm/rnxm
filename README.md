@@ -1,6 +1,4 @@
 # 🐈 Pearoo
-## Python, Flutter, Web development![](https://hit.yhype.me/github/profile?user_id=63553775)
-------
 ### Projects
 
 ✨ [`discord-localization`](https://pypi.org/project/discord-localization) - An i18n/l10n extension for discord.py
