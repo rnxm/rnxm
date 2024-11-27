@@ -1,5 +1,4 @@
 # 🐈 Pearoo
-### <sup>`he/him`</sup>
 ## Python, Flutter, Web development![](https://hit.yhype.me/github/profile?user_id=63553775)
 ------
 ### Projects
@@ -10,7 +9,7 @@
 
 🤖 [`FightMan01 bot`](https://fightman01bot.hu/) - Hungary's most popular Discord bot
 
-🌐 [`pearoo.dev`](https://pearoo.dev/) - My website (source code: [PearooXD/pearooxd.github.io](https://github.com/PearooXD/pearooxd.github.io))
+🌐 [`pearoo.dev`](https://pearoo.dev/) - My website (source code: [rnxm/rnxm.github.io](https://github.com/rnxm/rnxm.github.io))
 
 ------
 <details>
