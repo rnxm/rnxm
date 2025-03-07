@@ -3,7 +3,7 @@
 
 ✨ [`discord-localization`](https://pypi.org/project/discord-localization) - An i18n/l10n extension for discord.py
 
-📚 [`reFilc`](https://refilc.hu/) - A client for the hungarian students' application "KRÉTA"
+📚 [`Firja`](https://firka.app/) - A client for the hungarian students' application "KRÉTA"
 
 🤖 [`FightMan01 bot`](https://fightman01bot.hu/) - Hungary's most popular Discord bot
 
